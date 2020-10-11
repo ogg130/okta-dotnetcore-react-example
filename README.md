@@ -1,6 +1,6 @@
 # Build a .NET Core App with React and Authentication
 
-This example is the starting point for th post: [Build A Secure CRUD App with ASP.NET Core and React](https://developer.okta.com/blog/2018/07/02/build-a-secure-crud-app-with-aspnetcore-and-react).
+This repository was research code that I worked along with while working through  [Build A Secure CRUD App with ASP.NET Core and React](https://developer.okta.com/blog/2018/07/02/build-a-secure-crud-app-with-aspnetcore-and-react).
 
 **Prerequisites**:
 Make sure you have the .NET Framework 2.0, Node 8 or better, and NPM installed.
